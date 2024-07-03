@@ -141,3 +141,7 @@ nav {
 .card ion-icon:last-child {
     font-size: 20px;
 }
+
+.mainSection {
+    background-color: rgb(216, 214, 211);
+}
