@@ -9,6 +9,11 @@ body {
     font-family: "Feather", sans-serif;
 }
 
+main {
+    font-family: "Feather", sans-serif;
+}
+
+
 nav img {
     height: 40px;
 }
@@ -56,7 +61,7 @@ nav {
 
 .first {
     background-color: rgb(132, 80, 235);
-    height: 55vh;
+    
 }
 .welcome {
     width: 400px;
@@ -107,4 +112,32 @@ nav {
 }
 .secondBar span {
     font-size: 10px;
+}
+.cardIcons {
+    font-size: 17px;
+}
+.card {
+    font-size: 15px;
+}
+
+.stars {
+    color: orange;
+    font-size: 13px;
+}
+
+.cardDivider {
+    background-color: grey;
+    width: 100%;
+    height: 1px;
+    padding: 0;
+    
+}
+.cardAvatar {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.card ion-icon:last-child {
+    font-size: 20px;
 }
