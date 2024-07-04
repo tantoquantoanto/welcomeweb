@@ -145,3 +145,27 @@ nav {
 .mainSection {
     background-color: rgb(216, 214, 211);
 }
+
+.menuIcon {
+    font-size: 30px;
+
+}
+.drop-down-toggle {
+    opacity: 0;
+}
+
+.menuButton {
+    height: 40px;
+    font-size: 35px;
+    border: 2px solid rgb(132, 80, 235);
+    color: rgb(132, 80, 235) ;
+    background-color: white;
+    border-radius: 10%;
+}
+
+.drop-divider {
+    background-color: black;
+    height: 0.1px;
+    width: 100%;
+
+}
